@@ -51,7 +51,6 @@ img {
     width: 30rem;
     border-radius: 1.5rem;
     border: 0.3rem solid #f9e9ec;
-    min-height: 100vh;
 }
 
 .content {
@@ -65,7 +64,6 @@ img {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    min-height: 100vh;
 }
 
 #adv {
@@ -79,7 +77,6 @@ img {
     background-color: #06075562;
     border-radius: 2rem;
     padding: 1.5rem;
-    min-height: 100vh;
 }
 
 #pic {
@@ -88,7 +85,6 @@ img {
     height: 12rem;
     border-radius: 60%;
     background-size: cover;
-    min-height: 100vh;
 }
 
 .pic1 {
@@ -113,13 +109,11 @@ img {
     padding: 0.5rem 1rem;
     /* margin: 1rem auto ; */
     border-radius: 2rem;
-    min-height: 100vh;
 }
 
 #about {
     color: #b5e2fa;
     font-size: 1.6rem;
-    min-height: 100vh;
 }
 
 
@@ -130,7 +124,6 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
 }
 
 .avatar {
@@ -147,11 +140,9 @@ img {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    min-height: 100vh;
 }
 
 .guide-data {
     width: 30rem;
     font-size: 1.3rem;
-    min-height: 100vh;
 }
